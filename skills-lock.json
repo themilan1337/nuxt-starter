@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "nuxt-testing": {
+      "source": "git@github.com:themilan1337/vue-rulekit.git",
+      "sourceType": "git",
+      "skillPath": "skills/nuxt-testing/SKILL.md",
+      "computedHash": "377b4236765f6d09123d63e84a08b6fbf315aceb2fb1b30fd1217708454305d4"
+    },
+    "pages": {
+      "source": "git@github.com:themilan1337/vue-rulekit.git",
+      "sourceType": "git",
+      "skillPath": "skills/pages/SKILL.md",
+      "computedHash": "fd5f547e0c744bf2f3257f328d9c6deed83bb5dfe81e4c40ade650362a1a8781"
+    },
+    "pinia-colada": {
+      "source": "git@github.com:themilan1337/vue-rulekit.git",
+      "sourceType": "git",
+      "skillPath": "skills/pinia-colada/SKILL.md",
+      "computedHash": "7b25174a1afbf93be7976e875157369f4d1cd4a7d29b0cbf0fd4cee7cb3c5b23"
+    },
+    "writing": {
+      "source": "git@github.com:themilan1337/vue-rulekit.git",
+      "sourceType": "git",
+      "skillPath": "skills/writing/SKILL.md",
+      "computedHash": "e2607975837c2a301e9386ec0d28833edba516de7291f1e49934675162347018"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm:*)",
+      "Bash(npx:*)",
+      "Bash(git:*)",
+      "Bash(rg:*)",
+      "Bash(ls:*)",
+      "WebFetch(domain:nuxt.com)",
+      "WebFetch(domain:vuejs.org)",
+      "WebFetch(domain:router.vuejs.org)",
+      "WebFetch(domain:pinia-colada.esm.dev)",
+      "WebFetch(domain:vueuse.org)",
+      "WebFetch(domain:nitro.build)"
+    ]
+  }
+}
